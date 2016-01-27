@@ -10,6 +10,8 @@ javac Client3.java
 
 ## Run
 
+cd src
+
 java Client3
 
 ## Usage
@@ -23,6 +25,3 @@ java Client3
 * Can be stopped in between in and analyzed.
 
 * Reset to start again
-
-
-
