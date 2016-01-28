@@ -18,6 +18,8 @@ java Client3
 
 * Random array is loaded upon start.
 
+![alt tag](https://raw.githubusercontent.com/agawande/JavaSortVisualize/master/GUI_snapshots/intial_screen.PNG)
+
 * Color of the array can change.
 
 * Select the algorithm of choice from the drop down menu and select start.
@@ -25,3 +27,5 @@ java Client3
 * Can be stopped in between in and analyzed.
 
 * Reset to start again
+ 
+![alt tag](https://raw.githubusercontent.com/agawande/JavaSortVisualize/master/GUI_snapshots/sorted.PNG)
